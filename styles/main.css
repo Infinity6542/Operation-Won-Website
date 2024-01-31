@@ -138,13 +138,13 @@ footer {
 }
 
 .cta h2 > span:nth-child(3) {
-  margin-left: -14.56rem;
+  margin-left: -1.5rem;
 }
 
 .cta .ctaBtn a {
   position: relative;
-  top: -12rem;
-  left: -26rem;
+  top: -13rem;
+  left: -23rem;
   /* top: 73.6rem;
   left: 11.8rem; */
 }
