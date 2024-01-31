@@ -1,5 +1,3 @@
-// let outlinedButton = document.getElementsByClassName("outlined");
-
 window.onload = () => {
   console.info("Page successfully loaded");
   const blob = document.getElementById("blob");
@@ -40,11 +38,6 @@ window.onload = () => {
       );
     };
     ctaBtn.onmouseleave = () => {
-      // ctaBtnTxt.style.transform = "translate(0px, 0px)";
-      // ctaBtnTxt.style.position = "static";
-      // ctaBtnTxt.style.top = "0";
-      // ctaBtnTxt.style.left = "0";
-      // ctaBtnTxt.style.fontSize = "1.2rem";
 
       ctaBtnTxt.animate(
         {
